@@ -1,4 +1,4 @@
-# About Me
+<!--# About Me-->
 
 <h2 align="left">
 Hello! 👋 I'm Clara, a Software Engineering graduand based in South Africa.</h2>
