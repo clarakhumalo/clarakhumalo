@@ -1,8 +1,21 @@
-<h2 align="left">Hi 👋! My name is Clara and I'm a software engineer, from South Africa.</h2>
-
-
 # About Me
-Hello! 👋 I'm **_Clara_**, a graduand of WeThinkCode_ based in South Africa. I have a strong background in software development and IT systems. 
+
+<h2 align="left">
+Hello! 👋 I'm **_Clara_**, a graduand of WeThinkCode_ based in South Africa. I have a strong background in software development and IT systems. </h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clarakhumalo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clarakhumalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
+
+
 ## 🔭 Current Focus
 - Graduating from **_Systems Development (NQF Level 5 SETA)_**
 - Tutoring **_Python and Java_**
@@ -46,16 +59,6 @@ My next ideal job would be a intern developer, graduate developer or junior deve
 
 Feel free to connect with me to discuss collaboration, projects, or career opportunities!
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clarakhumalo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clarakhumalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
 
 ###
 
