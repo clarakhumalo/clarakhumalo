@@ -76,6 +76,8 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
 Visit my <em>LinkedIn Profile</em>: www.linkedin.com/in/clara-juana-khumalo-4b6082237
 <br>
+<br>
+
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 Contact me at <em>Email</em>: clarakhumalo14@gmail.com
   
