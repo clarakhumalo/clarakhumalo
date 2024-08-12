@@ -12,15 +12,17 @@ Hello! 👋 I'm Clara, a Software Engineering graduand based in South Africa.</h
 
 
 ###
-<div align="right">
-<img height="200px" margin-top="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
-</div>
+<div >
+<!--   margin-top="400px"  -->
+<img align="right" height="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
 
 ## 🔭 Current Focus
 - Graduating from **_Systems Development (NQF Level 5 SETA)_**
 - Tutoring **_Python and Java_**
 - Building projects in **_Python, Java, JavaScript and Flutter_**
 - Exploring opportunities in **_web and software development_**
+</div>
+
 
 ## 🌱 Skills
 
