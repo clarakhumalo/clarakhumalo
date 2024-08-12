@@ -12,9 +12,9 @@ Hello! 👋 I'm Clara, a graduand of WeThinkCode_ based in South Africa. I have 
 
 
 ###
-
-<img align="right" height="150" margin-top="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
-
+<div>
+<img align="right" height="200px" margin-top="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
+</div>
 
 ## 🔭 Current Focus
 - Graduating from **_Systems Development (NQF Level 5 SETA)_**
