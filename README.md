@@ -21,6 +21,7 @@ Hello! 👋 I'm Clara, a graduand of WeThinkCode_ based in South Africa. I have 
 - Tutoring **_Python and Java_**
 - Building projects in **_Python, Java, JavaScript and Flutter_**
 - Exploring opportunities in **_web and software development_**
+
 ## 🌱 Skills
 
 <div align="left">
@@ -72,8 +73,8 @@ Hello! 👋 I'm Clara, a graduand of WeThinkCode_ based in South Africa. I have 
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
 
-  <a href="mailto: clarakhumalo14@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><p>Contact me at <em>clarakhumalo14@gmail.com</em></p></a>
-  <a href="www.linkedin.com/in/clara-juana-khumalo-4b6082237"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> <p>Visit my <em>LinkedIn profile</em></p></a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><p>Contact me at <a href="mailto: clarakhumalo14@gmail.com"><em>clarakhumalo14@gmail.com</em></a></p>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> <p>Visit my <a href="www.linkedin.com/in/clara-juana-khumalo-4b6082237"><em>LinkedIn profile</em></a></p>
 </div>
 <!-- - **_LinkedIn_**: www.linkedin.com/in/clara-juana-khumalo-4b6082237
 - **_Email_**: clarakhumalo14@gmail.com -->
