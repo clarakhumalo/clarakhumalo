@@ -1,7 +1,7 @@
 # About Me
 
 <h2 align="left">
-Hello! 👋 I'm Clara, a graduand of WeThinkCode_ based in South Africa. I have a strong background in software development and IT systems. </h2>
+Hello! 👋 I'm Clara, a Software Engineering graduand based in South Africa.</h2>
 
 ###
 
@@ -12,8 +12,8 @@ Hello! 👋 I'm Clara, a graduand of WeThinkCode_ based in South Africa. I have 
 
 
 ###
-<div>
-<img align="right" height="200px" margin-top="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
+<div align="right">
+<img height="200px" margin-top="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
 </div>
 
 ## 🔭 Current Focus
