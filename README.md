@@ -1,7 +1,7 @@
 <!--# About Me-->
 
 <h2 align="left">
-Hello! 👋 I'm Clara, a Software Engineering graduand based in South Africa.</h2>
+Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h2>
 
 ###
 
@@ -73,12 +73,11 @@ Hello! 👋 I'm Clara, a Software Engineering graduand based in South Africa.</h
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
 
 
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> <p>Visit my <a href="www.linkedin.com/in/clara-juana-khumalo-4b6082237"><em>LinkedIn profile</em></a></p>
-<!--   </div> -->
-<!--- **_LinkedIn_**: www.linkedin.com/in/clara-juana-khumalo-4b6082237-->
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+Visit my <em>LinkedIn Profile</em>: www.linkedin.com/in/clara-juana-khumalo-4b6082237
 <br>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><p>Contact me at <a href="mailto: clarakhumalo14@gmail.com"><em>clarakhumalo14@gmail.com</em></a></p>
-<!--- **_Email_**: clarakhumalo14@gmail.com-->
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+Contact me at <em>Email</em>: clarakhumalo14@gmail.com
   
 ## 💼 Job Interests
 My next ideal job would be an intern developer, graduate developer or junior developer position in an environment that will provide a platform for me to apply the skills that I have acquired and allow me to learn new soft and technical skills that will enable me to become a better developer. I am actively seeking opportunities that leverage my skills in software development and IT systems. Open to entry-level roles such as:
