@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Clara and I'm a software engineering graduate, from South Africa.</h2>
+<h2 align="left">Hi 👋! My name is Clara and I'm a software engineer, from South Africa.</h2>
 
 ###
 
