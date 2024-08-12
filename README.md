@@ -66,18 +66,20 @@ Hello! 👋 I'm Clara, a Software Engineering graduand based in South Africa.</h
 ###
 ## 📫 Reach Me
 
-<div align="left">
-<!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<!--   <div align="left">
+<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><p>Contact me at <a href="mailto: clarakhumalo14@gmail.com"><em>clarakhumalo14@gmail.com</em></a></p>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> <p>Visit my <a href="www.linkedin.com/in/clara-juana-khumalo-4b6082237"><em>LinkedIn profile</em></a></p>
-</div>
-<!-- - **_LinkedIn_**: www.linkedin.com/in/clara-juana-khumalo-4b6082237
-- **_Email_**: clarakhumalo14@gmail.com -->
 
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/> <p>Visit my <a href="www.linkedin.com/in/clara-juana-khumalo-4b6082237"><em>LinkedIn profile</em></a></p>
+<!--   </div> -->
+<!--- **_LinkedIn_**: www.linkedin.com/in/clara-juana-khumalo-4b6082237-->
+<br>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><p>Contact me at <a href="mailto: clarakhumalo14@gmail.com"><em>clarakhumalo14@gmail.com</em></a></p>
+<!--- **_Email_**: clarakhumalo14@gmail.com-->
+  
 ## 💼 Job Interests
 My next ideal job would be an intern developer, graduate developer or junior developer position in an environment that will provide a platform for me to apply the skills that I have acquired and allow me to learn new soft and technical skills that will enable me to become a better developer. I am actively seeking opportunities that leverage my skills in software development and IT systems. Open to entry-level roles such as:
 
@@ -91,9 +93,9 @@ My next ideal job would be an intern developer, graduate developer or junior dev
 Feel free to connect with me to discuss collaboration, projects, or career opportunities!
 ###
 
-
+<!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
