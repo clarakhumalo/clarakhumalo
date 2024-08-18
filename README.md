@@ -15,10 +15,10 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 <img align="right" height="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
 
 ## 🔭 Current Focus
-- Graduating from **_Systems Development (NQF Level 5 SETA)_**
-- Tutoring **_Python and Java_**
-- Building projects in **_Python, Java, JavaScript and Flutter_**
-- Exploring opportunities in **_web and software development_**
+- Graduate of **_Systems Development (NQF Level 5 SETA)_**
+- Tutoring **_Python, Java & C#_**
+- Building projects in **_Python, Java, JavaScript, C# & Flutter_**
+- Exploring opportunities in **_software development (specifically web and mobile dev)_**
 
 
 ## 🌱 Skills
@@ -28,9 +28,9 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" /> 
@@ -45,6 +45,7 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 - Python
 - Java
 - JavaScript
+- C#
 ### Web Technologies: 
 - CSS
 - HTML
