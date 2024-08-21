@@ -12,16 +12,18 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 
 
 ###
-<img align="right" height="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
+
 
 ## 🔭 Current Focus
+<img align="right" height="165px" width="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
+
 - Graduate of **_Systems Development (NQF Level 5 SETA)_**
 - Tutoring **_Python, Java & C#_**
 - Building projects in **_Python, Java, JavaScript, C# & Flutter_**
 - Exploring opportunities in **_software development (specifically web and mobile dev)_**
 
 
-## 🌱 Skills
+## 🌱 Skills Overview
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -41,60 +43,25 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-### Programming Languages:
-- Python
-- Java
-- JavaScript
-- C#
-### Web Technologies: 
-- CSS
-- HTML
-### Frameworks and Libraries:
-- Flask
-- Pygame
-- JavaFX
-### Testing Tools
-- JUnit
-- unittest
-### Containerization
-- Docker
-### Configuration and Pipelines
-- YAML
-### Version Control and CI/CD Platforms
-- GitHub
-- GitLab
+- **Programming Languages:** Python, Java, JavaScript, C#
+- **Web Technologies:** HTML, CSS
+- **Frameworks & Libraries:** Flask, Pygame, JavaFX
+- **Testing Tools:** JUnit, unittest
+- **Containerization:** Docker
+- **Configuration & Pipelines:** YAML
+- **Version Control & CI/CD Platforms:** GitHub, GitLab
+
 
 ###
 ## 📫 Reach Me
+- [LinkedIn](https://www.linkedin.com/in/clara-juana-khumalo-4b6082237)
+- [Email](mailto:clarakhumalo14@gmail.com)
 
-<!--   <div align="left">
-<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
-
-
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-Visit my <em>LinkedIn Profile</em>: www.linkedin.com/in/clara-juana-khumalo-4b6082237
-<br>
-<br>
-
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-Contact me at <em>Email</em>: clarakhumalo14@gmail.com
-  
 ## 💼 Job Interests
-My next ideal job would be an intern developer, graduate developer or junior developer position in an environment that will provide a platform for me to apply the skills that I have acquired and allow me to learn new soft and technical skills that will enable me to become a better developer. I am actively seeking opportunities that leverage my skills in software development and IT systems. Open to entry-level roles such as:
+I'm seeking an intern, graduate, or junior developer role where I can apply my skills and learn more. Open to roles like:
+- IT Intern, Graduate Developer, Junior Web Developer, Entry-Level Programmer
 
-- IT Intern
-- Graduate Developer
-- Intern Developer
-- Junior Web Developer
-- Entry-Level Technical Writer
-- Entry-Level Programmer
-
-Feel free to connect with me to discuss collaboration, projects, or career opportunities!
-###
-
+Feel free to connect with me to discuss collaboration or opportunities!
 <!--
 <br clear="both">
 
