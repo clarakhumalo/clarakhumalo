@@ -17,10 +17,9 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 ## 🔭 Current Focus
 <img align="right" height="165px" width="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
 
-- Graduate of **_Systems Development (NQF Level 5 SETA)_**
-- Tutoring **_Python, Java & C#_**
-- Building projects in **_Python, Java, JavaScript, C# & Flutter_**
-- Exploring opportunities in **_software development (specifically web and mobile dev)_**
+- **Actively Seeking**: Opportunities in **_software development (intern, graduate, or junior developer roles)_** with immediate availability.
+- **Temporary Part-time:** Tutoring **_Python, Java, & C#_** while pursuing a full-time role.
+- **Continuous Learning:** Building projects in **_Python, Java, JavaScript, C# & Flutter_** to enhance and expand my skills.
 
 
 ## 🌱 Skills Overview
