@@ -53,8 +53,8 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 
 ###
 ## 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com/in/clara-juana-khumalo-4b6082237)
-- [Email](mailto:clarakhumalo14@gmail.com)
+- LinkedIn: [clara-juana-khumalo-4b6082237](https://www.linkedin.com/in/clara-juana-khumalo-4b6082237)
+- Email: [clarakhumalo14@gmail.com](mailto:clarakhumalo14@gmail.com)
 
 ## 💼 Job Interests
 I'm seeking an intern, graduate, or junior developer role where I can apply my skills and learn more. Open to roles like:
