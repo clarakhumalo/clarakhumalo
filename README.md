@@ -49,6 +49,7 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 - **Containerization:** Docker
 - **Configuration & Pipelines:** YAML
 - **Version Control & CI/CD Platforms:** GitHub, GitLab
+- **Design & Illustration:** Figma, Krita & Canva
 
 
 ###
