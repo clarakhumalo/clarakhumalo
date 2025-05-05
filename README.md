@@ -41,14 +41,14 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-- **Programming Languages:** Python, Java, JavaScript, C#
+- **Programming Languages:** Python, Java, JavaScript, C#, Lua
 - **Web Technologies:** HTML, CSS
 - **Frameworks & Libraries:** Flask, Pygame, JavaFX
 - **Testing Tools:** JUnit, unittest
 - **Containerization:** Docker
 - **Configuration & Pipelines:** YAML
 - **Version Control & CI/CD Platforms:** GitHub, GitLab
-- **Design & Illustration:** Figma, Krita & Canva
+- **Design & Illustration:** Figma, Krita, Canva
 
 
 ###
