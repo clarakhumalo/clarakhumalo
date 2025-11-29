@@ -10,8 +10,8 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 </div>
 
 
-###
-
+### Portfolio
+https://clarakhumalo.github.io/
 
 ## 🔭 Current Focus
 <img align="right" height="165px" width="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
