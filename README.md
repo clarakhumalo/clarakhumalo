@@ -6,7 +6,7 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clarakhumalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clarakhumalo&layout=compact&langs_count=5&theme=dracula&cache_seconds=7200" height="150" alt="languages graph" />
 </div>
 
 ## 💡 Portfolio
