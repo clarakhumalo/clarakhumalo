@@ -5,9 +5,11 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 
 ###
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clarakhumalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
+-->
 
 ## 💡 Portfolio
 https://clarakhumalo.github.io/
@@ -49,8 +51,6 @@ https://clarakhumalo.github.io/
 - **Version Control & CI/CD Platforms:** GitHub, GitLab
 - **Design & Illustration:** Figma, Krita, Canva
 
-
-###
 ## 📫 Reach Me
 - LinkedIn: [clara-juana-khumalo-4b6082237](https://www.linkedin.com/in/clara-juana-khumalo-4b6082237)
 - Email: [clarakhumalo14@gmail.com](mailto:clarakhumalo14@gmail.com)
