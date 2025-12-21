@@ -15,7 +15,7 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 [Portfolio Website](https://clarakhumaloportfolio.my.canva.site/) 
 
 ## 🔭 Current Focus
-<img align="right" height="165px" width="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />
+<!--<img align="right" height="165px" width="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2NGJkMGFtZXl5aGhmYWNoZXN3eHc3bDZudmR0OGVoZmpvZXk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DIGHroMnlIT5mocAmS/giphy.gif"  />-->
 
 - **Actively Seeking**: entry-level **_(e.g., intern, graduate, junior developer, etc.)_** software development opportunities with immediate availability.
 - **Temporary Part-time:** Tutoring **_Python, Java, & C#_** while looking for a full-time role.
@@ -62,7 +62,5 @@ I'm seeking an intern, graduate, or junior developer role where I can apply my s
 Feel free to connect with me to discuss collaboration or opportunities!
 <!--
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 -->
 ###
