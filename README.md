@@ -47,6 +47,3 @@ Hello! 👋 I'm Clara, a Software Engineering graduate based in South Africa.</h
 I'm seeking an intern, graduate, or junior developer role where I can apply my skills and learn more. Open to roles like:
 - IT Intern, Graduate Developer, Junior Web Developer, Entry-Level Programmer
 
-Feel free to connect with me to discuss collaboration or opportunities!
--->
-###
